@@ -1,6 +1,10 @@
 {
-	"invalid": {
+	"invalid1": {
 		"username": "surya1",
 		"password": "password123"
-	}
+	},
+	"invalid2": {
+		"username": "surya2",
+		"password": "password124"
+}
 }
